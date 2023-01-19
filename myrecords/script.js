@@ -6,3 +6,5 @@ const date = {
     water: ['01-23', '01-24', '01-25'],
     pedal: ['01-23', '01-24', '01-25']
 }
+
+library.setData(date)
